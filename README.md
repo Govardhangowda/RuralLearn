@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="assets/rurallearn_logo.png" alt="RuralLearn Logo" width="500">
+</div>
+
+<h1 align="center">RuralLearn</h1>
+
+<p align="center">
+  Learn • Practice • Grow
+</p>
 # RuralLearn
 
 RuralLearn is a Python desktop learning prototype built for a hackathon. It brings lessons, practice quizzes, progress tracking, locally searchable learning material, and an optional AI tutor together in an interface designed to remain useful without an internet connection.
